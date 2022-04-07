@@ -1,0 +1,23 @@
+.mcard{
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.mcard .mtext{
+    width: 59%;
+    line-height: normal;
+}
+.mcard .mtext strong{
+    font-size: 16px;
+}
+.mcard .mtext p{
+    font-size: small;
+}
+.mcard .mimage{
+    width: 39%;
+}
+.mimage img{
+    max-width: 100%;
+    max-height: 100%;
+}
